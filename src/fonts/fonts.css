@@ -1,0 +1,18 @@
+@font-face {
+  font-family: SF Pro;
+  src: url('./SF-Pro-Text-Regular.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: SF Pro;
+  src: url('./SF-Pro-Text-Bold.otf') format('otf');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: SF Pro;
+  src: url('./SF-Pro-Text-Thin.otf') format('otf');
+  font-weight: lighter;
+}
